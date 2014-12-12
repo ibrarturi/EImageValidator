@@ -1,7 +1,7 @@
 EImageValidator
 ===============
 
-Yii extension for validating image types, min & max size, height, width and height
+Yii extension which Validates the uploaded image with types (jpg, gif, png...etc), min & max size (in kilo bytes, width and height. This extension can be used for different purposes depending upon your requirements.
 
 **Requirements**
 
